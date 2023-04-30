@@ -1,3 +1,3 @@
 # Gymate
 Gym Website with great UI design
-Live :
+Live : https://gymsite-sigma.vercel.app/
